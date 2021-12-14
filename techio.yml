@@ -1,6 +1,6 @@
 title: Simple Python Template
 plan:
 - title: Part 1
-  statement: markdowns/part1.md
+  statement: markdowns/welcome.md
 - title: Part 2
   statement: markdowns/part2.md
